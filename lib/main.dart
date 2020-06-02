@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:koroses/count_down.dart';
 import 'package:koroses/constants.dart';
-import 'package:koroses/video_view.dart';
 import 'package:video_player/video_player.dart';
 // import 'package:video_player_web/video_player_web.dart';
 
